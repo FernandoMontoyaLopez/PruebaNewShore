@@ -1,4 +1,6 @@
-# PruebaNewShore se debe ejecutar desde  visual studio la carpeta:
+# PruebaNewShore 
+
+se debe ejecutar desde  visual studio la carpeta:
 FlightJourney
 
 la API queda desplegada en la siguiente direccion
